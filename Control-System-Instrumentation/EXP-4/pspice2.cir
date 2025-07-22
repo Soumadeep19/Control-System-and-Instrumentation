@@ -1,0 +1,6 @@
+V1    1  0  PWL(0S  0V   1NS   1V   1US   1V)
+L1    1  2  1MH
+C1    2  0  1UF
+.TRAN   0.1UF   10MS
+.PROBE
+.END
